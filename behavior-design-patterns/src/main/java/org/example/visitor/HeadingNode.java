@@ -1,4 +1,4 @@
-package com.codewithmosh.visitor;
+package org.example.visitor;
 
 public class HeadingNode implements HtmlNode {
   @Override

@@ -1,4 +1,4 @@
-package com.codewithmosh.mediator;
+package org.example.mediator;
 
 import java.util.ArrayList;
 import java.util.List;

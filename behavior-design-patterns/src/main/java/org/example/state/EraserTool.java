@@ -1,4 +1,4 @@
-package com.codewithmosh.state;
+package org.example.state;
 
 public class EraserTool implements Tool {
   @Override

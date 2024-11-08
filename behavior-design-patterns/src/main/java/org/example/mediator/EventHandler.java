@@ -1,4 +1,4 @@
-package com.codewithmosh.mediator;
+package org.example.mediator;
 
 // Functional interface (single method)
 public interface EventHandler {

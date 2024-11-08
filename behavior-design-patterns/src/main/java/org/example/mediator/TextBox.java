@@ -1,4 +1,4 @@
-package com.codewithmosh.mediator;
+package org.example.mediator;
 
 public class TextBox extends UIControl {
   private String content;

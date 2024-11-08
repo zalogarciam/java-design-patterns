@@ -1,4 +1,4 @@
-package com.codewithmosh.state;
+package org.example.state;
 
 public class BrushTool implements Tool {
   @Override

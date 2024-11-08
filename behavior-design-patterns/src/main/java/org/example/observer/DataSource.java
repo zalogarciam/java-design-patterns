@@ -1,4 +1,4 @@
-package com.codewithmosh.observer;
+package org.example.observer;
 
 public class DataSource extends Subject {
   private int value;

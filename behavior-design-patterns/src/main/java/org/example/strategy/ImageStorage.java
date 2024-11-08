@@ -1,4 +1,4 @@
-package com.codewithmosh.strategy;
+package org.example.strategy;
 
 public class ImageStorage {
   public void store(String fileName, Compressor compressor, Filter filter) {

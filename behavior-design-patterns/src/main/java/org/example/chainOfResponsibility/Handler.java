@@ -1,4 +1,4 @@
-package com.codewithmosh.chainOfResponsibility;
+package org.example.chainOfResponsibility;
 
 public abstract class Handler {
   private Handler next;

@@ -1,4 +1,4 @@
-package com.codewithmosh.memento;
+package org.example.memento;
 
 import java.util.ArrayList;
 import java.util.List;

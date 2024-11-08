@@ -1,4 +1,4 @@
-package com.codewithmosh.chainOfResponsibility;
+package org.example.chainOfResponsibility;
 
 public class Logger extends Handler {
   public Logger(Handler next) {

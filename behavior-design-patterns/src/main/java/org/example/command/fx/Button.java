@@ -1,4 +1,4 @@
-package com.codewithmosh.command.fx;
+package org.example.command.fx;
 
 public class Button {
   private String label;

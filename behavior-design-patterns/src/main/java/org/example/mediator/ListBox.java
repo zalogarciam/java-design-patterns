@@ -1,4 +1,4 @@
-package com.codewithmosh.mediator;
+package org.example.mediator;
 
 public class ListBox extends UIControl {
   private String selection;

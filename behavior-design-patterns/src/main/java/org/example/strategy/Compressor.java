@@ -1,4 +1,4 @@
-package com.codewithmosh.strategy;
+package org.example.strategy;
 
 public interface Compressor {
 //  byte[] compress(byte[] image);

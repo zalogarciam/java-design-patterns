@@ -1,6 +1,6 @@
-package com.codewithmosh.command;
+package org.example.command;
 
-import com.codewithmosh.command.fx.Command;
+import org.example.command.fx.Command;
 
 public class BlackAndWhiteCommand implements Command {
   @Override

@@ -1,4 +1,4 @@
-package com.codewithmosh.template;
+package org.example.template;
 
 public class GenerateReportTask {
   private AuditTrail auditTrail;

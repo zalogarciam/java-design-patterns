@@ -1,4 +1,4 @@
-package com.codewithmosh.strategy;
+package org.example.strategy;
 
 public class JpegCompressor implements Compressor {
   @Override

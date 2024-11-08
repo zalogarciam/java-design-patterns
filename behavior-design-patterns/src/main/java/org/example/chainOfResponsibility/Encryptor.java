@@ -1,4 +1,4 @@
-package com.codewithmosh.chainOfResponsibility;
+package org.example.chainOfResponsibility;
 
 public class Encryptor extends Handler {
   public Encryptor(Handler next) {

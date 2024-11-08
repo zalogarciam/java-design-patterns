@@ -1,4 +1,4 @@
-package com.codewithmosh.state.abuse;
+package org.example.state.abuse;
 
 public class RunningState implements State {
   private Stopwatch stopwatch;

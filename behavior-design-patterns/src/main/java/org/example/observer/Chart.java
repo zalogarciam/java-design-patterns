@@ -1,4 +1,4 @@
-package com.codewithmosh.observer;
+package org.example.observer;
 
 public class Chart implements Observer {
   private DataSource dataSource;

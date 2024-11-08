@@ -1,4 +1,4 @@
-package com.codewithmosh.memento;
+package org.example.memento;
 
 public class EditorState {
   private final String content;

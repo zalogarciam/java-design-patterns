@@ -1,4 +1,4 @@
-package com.codewithmosh.chainOfResponsibility;
+package org.example.chainOfResponsibility;
 
 public class Authenticator extends Handler {
   public Authenticator(Handler next) {

@@ -1,4 +1,4 @@
-package com.codewithmosh.state.abuse;
+package org.example.state.abuse;
 
 public interface State {
   void click();

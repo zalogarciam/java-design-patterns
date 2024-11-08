@@ -1,4 +1,4 @@
-package com.codewithmosh.chainOfResponsibility;
+package org.example.chainOfResponsibility;
 
 public class Compressor extends Handler {
   public Compressor(Handler next) {

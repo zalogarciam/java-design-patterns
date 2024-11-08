@@ -1,4 +1,4 @@
-package com.codewithmosh.iterator;
+package org.example.iterator;
 
 public interface Iterator {
   boolean hasNext();

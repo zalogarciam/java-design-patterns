@@ -1,4 +1,4 @@
-package com.codewithmosh.command.editor;
+package org.example.command.editor;
 
 import java.io.*;
 

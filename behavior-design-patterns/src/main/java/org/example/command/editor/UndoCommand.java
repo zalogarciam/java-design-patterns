@@ -1,4 +1,4 @@
-package com.codewithmosh.command.editor;
+package org.example.command.editor;
 
 public class UndoCommand implements Command {
   private History history;

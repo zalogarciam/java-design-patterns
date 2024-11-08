@@ -1,4 +1,4 @@
-package com.codewithmosh.memento;
+package org.example.memento;
 
 public class Editor {
   private String content;

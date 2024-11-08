@@ -1,4 +1,4 @@
-package com.codewithmosh.state;
+package org.example.state;
 
 public class SelectionTool implements Tool {
   @Override

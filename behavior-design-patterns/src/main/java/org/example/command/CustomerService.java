@@ -1,4 +1,4 @@
-package com.codewithmosh.command;
+package org.example.command;
 
 public class CustomerService {
   public void addCustomer() {

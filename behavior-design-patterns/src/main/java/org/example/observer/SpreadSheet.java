@@ -1,4 +1,4 @@
-package com.codewithmosh.observer;
+package org.example.observer;
 
 public class SpreadSheet implements Observer {
   private DataSource dataSource;

@@ -1,4 +1,4 @@
-package com.codewithmosh.command.editor;
+package org.example.command.editor;
 
 public class BoldCommand implements UndoableCommand {
   private String prevContent;

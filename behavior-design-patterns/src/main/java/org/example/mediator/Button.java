@@ -1,4 +1,4 @@
-package com.codewithmosh.mediator;
+package org.example.mediator;
 
 public class Button extends UIControl {
   private boolean isEnabled;

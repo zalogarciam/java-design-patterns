@@ -1,4 +1,4 @@
-package com.codewithmosh.state.abuse;
+package org.example.state.abuse;
 
 public class StoppedState implements State {
   private Stopwatch stopwatch;
